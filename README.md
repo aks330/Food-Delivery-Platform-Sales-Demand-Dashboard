@@ -75,9 +75,3 @@ The dashboard uses these metrics to compare performance across platforms, cities
 ## Disclaimer
 
 This project is intended for educational and portfolio purposes. Dataset ownership and redistribution permissions should be respected.
-
-## Author
-
-Akshaya S S
-
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
